@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Matcha Strawberry Theme -->
+    <color name="matcha_light">#A8D5BA</color>
+    <color name="matcha_dark">#6EBF8B</color>
+
+    <color name="strawberry_light">#F7CACA</color>
+    <color name="strawberry_dark">#F28AAC</color>
+
+    <!-- Neutrals -->
+    <color name="white">#FFFFFF</color>
+    <color name="text_dark">#444444</color>
+
+</resources>

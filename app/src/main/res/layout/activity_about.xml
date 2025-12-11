@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="20dp"
+    android:background="@color/strawberry_light"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Toolbar -->
+
+    <!-- Icon -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_about"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/matcha_dark"
+        android:title="About"
+        android:titleTextColor="@android:color/white" />
+
+    <ImageView
+        android:layout_width="262dp"
+        android:layout_height="234dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/calculatornew" />
+
+    <!-- Info -->
+    <TextView
+        android:text="Author: Hanun Wajihah Binti Abdul Hanan"
+        android:textSize="18sp"
+        android:textColor="@color/text_dark"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"/>
+
+    <TextView
+        android:text="Matric No: 2023286192"
+        android:textSize="18sp"
+        android:textColor="@color/text_dark"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"/>
+
+    <TextView
+        android:text="Course: ICT602"
+        android:textSize="18sp"
+        android:textColor="@color/text_dark"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"/>
+
+    <TextView
+        android:text="Copyright © 2025"
+        android:textSize="16sp"
+        android:textColor="@color/text_dark"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"/>
+
+    <!-- GitHub Link -->
+    <TextView
+        android:id="@+id/txtGitHub"
+        android:text="GitHub Repository"
+        android:textSize="16sp"
+        android:textColor="@color/strawberry_dark"
+        android:autoLink="web"
+        android:linksClickable="true"
+        android:layout_marginTop="30dp"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
