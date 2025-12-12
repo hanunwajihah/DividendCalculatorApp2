@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Individual_Assignment_zakat">
 
-        <!-- HomeActivity as launcher -->
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
