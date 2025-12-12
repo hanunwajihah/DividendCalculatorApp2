@@ -73,7 +73,7 @@ Replace the placeholder images after uploading real screenshots into the /screen
 ---
 
 ### 🏠 Home Page  
-![Home Page](gradle/home_page_.png)
+![Home Page](screenshots/home_page.png)
 
 ---
 
