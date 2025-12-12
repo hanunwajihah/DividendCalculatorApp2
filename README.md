@@ -73,24 +73,24 @@ Replace the placeholder images after uploading real screenshots into the /screen
 ---
 
 ### 🏠 Home Page  
-![Home Page](DividendCalculatorApp2/home_page_.png)
+![Home Page](gradle/home_page_.png)
 
 ---
 
 ### ℹ️ About Page  
-![About Page](DividendCalculatorApp2/about_page(1)_.png)
+![About Page](/gradle/about_page(1)_.png)
 
 ---
 
 ### 🧮 Calculation Example  
-![Calculation Example](DividendCalculatorApp2/calculation_example.png)
+![Calculation Example](gradle/calculation_example.png)
 
 ---
 
 ## 📦 APK File
 The APK file is provided under the folder:
 
-/gradle/DividendCalculator.apk
+/gradle/app-debug.apk
 
 ---
 
