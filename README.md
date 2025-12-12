@@ -78,12 +78,12 @@ Replace the placeholder images after uploading real screenshots into the /screen
 ---
 
 ### ℹ️ About Page  
-![About Page](/gradle/about_page(1)_.png)
+![About Page](screenhots/about_page.png)
 
 ---
 
 ### 🧮 Calculation Example  
-![Calculation Example](DividendCalculatorApp2/calculation_example.png)
+![Calculation Example](screenshots/calculation_example.png)
 
 ---
 
