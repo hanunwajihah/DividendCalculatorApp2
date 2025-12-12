@@ -5,7 +5,7 @@ This Android application calculates the monthly and total dividend based on the 
 
 ---
 
-## ✨ Features
+## Features
 
 ### 🧮 Dividend Calculator
 Users can enter:
@@ -66,9 +66,6 @@ app/ ├── java/ (Activities & logic) ├── res/ │   ├── layout/
 ---
 
 ## 📸 Screenshots
-
-Below are the application interface screenshots.  
-Replace the placeholder images after uploading real screenshots into the /screenshots folder.
 
 ---
 
