@@ -75,15 +75,20 @@ Replace the placeholder images after uploading real screenshots into the /screen
 ### 🏠 Home Page  
 ![Home Page](screenshots/home_page.png)
 
+--
+
+### 🧮 Calculation Example  
+![Calculation Example](screenshots/calculation_example.png)
+
+---
+### 🏠 Toolbar 
+![Home Page](screenshots/toolbar.png)
+
 ---
 
 ### ℹ️ About Page  
 ![About Page](screenshots/about_page.png)
 
----
-
-### 🧮 Calculation Example  
-![Calculation Example](screenshots/calculation_example.png)
 
 ---
 
