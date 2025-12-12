@@ -83,14 +83,14 @@ Replace the placeholder images after uploading real screenshots into the /screen
 ---
 
 ### 🧮 Calculation Example  
-![Calculation Example](gradle/calculation_example.png)
+![Calculation Example](DividendCalculatorApp2/calculation_example.png)
 
 ---
 
 ## 📦 APK File
 The APK file is provided under the folder:
 
-/gradle/app-debug.apk
+DividendCalculatorApp/app-debug.apk
 
 ---
 
