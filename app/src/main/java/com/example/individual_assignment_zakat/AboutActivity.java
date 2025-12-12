@@ -29,7 +29,7 @@ public class AboutActivity extends AppCompatActivity {
         TextView txtGitHub = findViewById(R.id.txtGitHub);
         txtGitHub.setOnClickListener(v -> {
             Intent browserIntent = new Intent(Intent.ACTION_VIEW,
-                    Uri.parse("https://github.com/hanunwajihah/DividendCalculatorApp2.git"));
+                    Uri.parse("https://github.com/hanunwajihah/DividendCalculatorApp2"));
             startActivity(browserIntent);
         });
     }
