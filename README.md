@@ -90,7 +90,7 @@ Replace the placeholder images after uploading real screenshots into the /screen
 ## 📦 APK File
 The APK file is provided under the folder:
 
-DividendCalculatorApp2/app-debug.apk
+/apk/app-debug.apk
 
 ---
 
