@@ -78,7 +78,7 @@ Replace the placeholder images after uploading real screenshots into the /screen
 ---
 
 ### ℹ️ About Page  
-![About Page](screenhots/about_page.png)
+![About Page](screenshots/about_page.png)
 
 ---
 
